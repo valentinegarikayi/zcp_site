@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on ZCP</title>
+    <link>http://dmnfarrell.github.io/series/</link>
+    <description>Recent content in Series on ZCP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY 4.0 CN</copyright><atom:link href="http://dmnfarrell.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
